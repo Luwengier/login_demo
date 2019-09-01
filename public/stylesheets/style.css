@@ -1,0 +1,11 @@
+.fullh {
+  height: 100vh;
+}
+
+.fullw {
+  width: 100vw;
+}
+
+.col-fix {
+  width: 300px;
+}
